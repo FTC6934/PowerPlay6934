@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/suzic/Documents/Ftc PowerPlay/FtcRobotController-master (3)/FtcRobotController-master/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/suzic/Documents/Ftc PowerPlay/FtcRobotController-master (3)/FtcRobotController-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/suzic/Documents/Ftc PowerPlay/FtcRobotController-master (3)/FtcRobotController-master/FtcRobotController/src/main/res/xml/app_settings.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
