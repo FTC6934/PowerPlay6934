@@ -86,7 +86,7 @@ public class Auto_Encoder_Left_2 extends LinearOpMode {
         telemetry.addData(" target " , V.target_name);
         telemetry.update();
 
-//            sleep(5000);
+            sleep(5000);
 
 
         //Strafe to tall pole
